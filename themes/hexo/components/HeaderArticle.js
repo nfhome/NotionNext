@@ -33,7 +33,7 @@ export default function HeaderArticle({ post, siteInfo }) {
             data-aos-duration="300"
             data-aos-once="true"
             data-aos-anchor-placement="top-bottom"
-            className="bg-black bg-opacity-70 absolute top-0 w-full h-96 py-10 flex justify-center items-center ">
+            className="bg-black bg-opacity-20 absolute top-0 w-full h-96 py-10 flex justify-center items-center ">
 
         <div className='mt-10'>
             <div className='mb-3 flex justify-center'>
